@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanranier&label=Profile%20views&color=0e75b6&style=flat" alt="allanranier" /> </p>
 
-- 🌱 I’m currently learning **PHP, CodeIgniter and NodeJs**
+- 🌱 I’m currently learning **PHP, CodeIgniter and Laravel**
 
 - 📫 How to reach me **allanranier18@gmail.com**
 
